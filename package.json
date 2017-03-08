@@ -1,0 +1,26 @@
+{
+  "name": "doc-indexer",
+  "version": "0.0.1",
+  "description": "built for static page full-text search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungwensen/doc-indexer.git"
+  },
+  "keywords": [
+    "full-text",
+    "search",
+    "indexer",
+    "doc",
+    "doc-indexer"
+  ],
+  "author": "leungwensen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leungwensen/doc-indexer/issues"
+  },
+  "homepage": "https://github.com/leungwensen/doc-indexer#readme"
+}
